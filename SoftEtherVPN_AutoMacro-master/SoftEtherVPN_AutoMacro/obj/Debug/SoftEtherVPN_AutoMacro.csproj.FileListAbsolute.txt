@@ -1,0 +1,13 @@
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\bin\Debug\SoftEtherVPN_AutoMacro.exe.config
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\bin\Debug\SoftEtherVPN_AutoMacro.exe
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\bin\Debug\SoftEtherVPN_AutoMacro.pdb
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\bin\Debug\gl\SoftEtherVPN_AutoMacro.resources.dll
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\SoftEtherVPN_AutoMacro.csprojAssemblyReference.cache
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\SoftEtherVPN_AutoMacro.Form1.resources
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\SoftEtherVPN_AutoMacro.Properties.Resources.resources
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\SoftEtherVPN_AutoMacro.Form1.gl.resources
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\SoftEtherVPN_AutoMacro.csproj.GenerateResource.cache
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\SoftEtherVPN_AutoMacro.csproj.CoreCompileInputs.cache
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\gl\SoftEtherVPN_AutoMacro.resources.dll
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\SoftEtherVPN_AutoMacro.exe
+D:\ArulFrances\2021\Projects\SoftEtherVPN_AutoMacro-master\SoftEtherVPN_AutoMacro\obj\Debug\SoftEtherVPN_AutoMacro.pdb
